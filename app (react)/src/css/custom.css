@@ -1,0 +1,29 @@
+/* Write your custom CSS here */
+
+
+.entrepProcess {
+    padding: 75px 0px 75px 0px;
+    vertical-align: middle;
+}
+
+.imgCentre {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: auto;
+    margin-top: -200px;
+    /* Half the height */
+    margin-left: -200px;
+    /* Half the width */
+
+}
+
+@media screen and (max-width:770px) {
+    .imgCentre {
+        display: none; 
+
+    
+    }
+}
