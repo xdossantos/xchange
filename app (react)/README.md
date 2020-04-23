@@ -1,9 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##Overview 
+## Overview 
 
+XDODE xChange Project Overview:   http://xdode.com/xchange/ 
+I am currently in the design phase of this project and am looking to develop and deploy this at xdode.exchange ( I have already purchased the domain and configured a MERN instance using  AWS Lightsail and AWS Route 53 )
 
+I need a lot of support to get this project off the ground. I am taking care of the development work for the product innovation. Feel free to drop me an email at xola.dossantos@xdode.com  
 
 ## Available Scripts
 
